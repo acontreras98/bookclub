@@ -1,0 +1,19 @@
+Who 
+
+Groups sharing tracking their reading progress - ie Bookclubs, students in a classroom reading the same text
+
+Individual book readers track their collection and reading progress.
+
+What can the web app  do
+Bookshelf - Books where one can share what they are reading and how much progress they have made
+Join reading groups with set times for progressing through the group
+Map that shows local independent bookstores in the area
+
+Framework: Bulma  
+
+Backend AirTable
+Store user accounts
+Store books - Associated ratings
+APIs
+Google Maps API to show bookstore
+Open Books API to get information about books
